@@ -1,1 +1,1 @@
-# project1_repo
+In this group project, we discussed how we can utilize Pandas and Matplotlib with Python to organize car insurance claim information from an online resource into a suitable format for discovering data trends.
